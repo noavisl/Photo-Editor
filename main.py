@@ -261,9 +261,4 @@ class MyWindow:
 
 m = MyWindow()
 
-# n = tk.StringVar()
-# shapechoosen = ttk.Combobox(self.draw_win, width=27, textvariable=n)
-# shapechoosen['values'] = ('ריבוע', 'מלבן', 'עיגול')
-# shapechoosen.grid(row=4,column=1)
-# shapechoosen.current()
 
