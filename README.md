@@ -1,4 +1,4 @@
-To include images in the README, you can add screenshots or example images showing the features of the Photo-Editor. Here is an updated version of the README with image placeholders:
+Here is a combined and polished README for the Photo-Editor project:
 
 ---
 
@@ -7,13 +7,14 @@ To include images in the README, you can add screenshots or example images showi
 ![Photo-Editor Logo](images/logo.png)
 
 ## Overview
-Photo-Editor is a Python-based application for editing images using OpenCV. It offers a variety of image processing functions to enhance and manipulate photos.
+Photo-Editor is a Python-based application for editing photos using OpenCV. It offers a variety of image processing functions to enhance and manipulate images.
 
 ## Features
 - **Image Loading and Saving:** Load images from files and save edited images.
 - **Image Filters:** Apply various filters such as grayscale, blur, and edge detection.
 - **Transformations:** Perform transformations like rotation, scaling, and cropping.
-- **Drawing Tools:** Draw shapes, lines, and text on images.
+- **Drawing Tools:** Draw shapes, lines, and text on images, with options for color changes.
+- **Free Drawing:** Draw freely on a blank canvas.
 
 ![Feature Demo](images/feature_demo.png)
 
