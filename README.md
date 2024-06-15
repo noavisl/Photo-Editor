@@ -1,6 +1,3 @@
-Here is a combined and polished README for the Photo-Editor project:
-
----
 
 # Photo-Editor
 
