@@ -1,7 +1,3 @@
-Here is the updated README with added images and a detailed section explaining what is included in the project:
-
----
-
 # Photo-Editor
 
 ## Overview
@@ -89,13 +85,6 @@ Window for adding shapes like rectangles, circles, and lines with customizable o
 3. Commit your changes.
 4. Open a pull request.
 
-## License
-This project is licensed under the MIT License.
-
----
 
 For more details, visit the [GitHub repository](https://github.com/noavisl/Photo-Editor).
 
----
-
-You can replace the placeholders with actual images from your project. Make sure the images are stored in the `images` directory of your project.
