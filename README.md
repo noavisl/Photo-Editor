@@ -60,16 +60,20 @@ Functionality to add images onto the canvas for composite editing.
 ### Add Text
 Window for adding text to images with options for font, size, and color.
 ![Add Text Window](Description%20pictures/addTextWindow.png)
+![Before Change Color](Description%20pictures/beforeChangeColor.png)
 
 ### Color Change
 Options to change the color of text or shapes on the canvas.
 ![Color Window](Description%20pictures/colorWin.png)
-![Before Change Color](Description%20pictures/beforeChangeColor.png)
-![After Change Color](Description%20pictures/changeColor.png)
 
 ### Cut Image
 Tool for cropping images to the desired size.
 ![Cut Image](Description%20pictures/cutImg.png)
+
+###Changing the tone of the image
+An option to change the color of the image to 4 different shades and also an option with the starting image
+![After Change Color](Description%20pictures/changeColor.png)
+
 
 ### Free Drawing
 Tool for freehand drawing on a blank canvas or existing image.
